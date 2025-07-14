@@ -1,6 +1,6 @@
-package Service;
+package pe.edu.cibertec.sistema_inventario.Service;
 
-import Models.Categoria;
+import pe.edu.cibertec.sistema_inventario.Models.Categoria;
 
 import java.util.List;
 

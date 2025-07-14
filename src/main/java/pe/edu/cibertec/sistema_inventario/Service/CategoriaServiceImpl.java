@@ -1,7 +1,7 @@
-package Service;
+package pe.edu.cibertec.sistema_inventario.Service;
 
-import Models.Categoria;
-import Repository.CategoriaRepository;
+import pe.edu.cibertec.sistema_inventario.Models.Categoria;
+import pe.edu.cibertec.sistema_inventario.Repository.CategoriaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

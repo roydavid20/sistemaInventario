@@ -1,7 +1,7 @@
-package Controller;
+package pe.edu.cibertec.sistema_inventario.Controller;
 
-import Models.Producto;
-import Repository.ProductoRepository;
+import pe.edu.cibertec.sistema_inventario.Models.Producto;
+import pe.edu.cibertec.sistema_inventario.Repository.ProductoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

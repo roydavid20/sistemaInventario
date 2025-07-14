@@ -1,4 +1,4 @@
-package Models;
+package pe.edu.cibertec.sistema_inventario.Models;
 
 import jakarta.persistence.*;
 import lombok.Getter;

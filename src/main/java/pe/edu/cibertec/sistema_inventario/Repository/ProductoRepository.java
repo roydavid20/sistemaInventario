@@ -1,6 +1,6 @@
-package Repository;
+package pe.edu.cibertec.sistema_inventario.Repository;
 
-import Models.Producto;
+import pe.edu.cibertec.sistema_inventario.Models.Producto;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
